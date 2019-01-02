@@ -20,8 +20,8 @@
 * Pirometro marca WEST modelo 6100+
 
 ## Autores
-* pedrohermon
-* emmanuel156
+* <a href="http://www.github.com/pedrohermon">pedrohermon</a> <img src="http://www.github.com/pedrohermon.png" height="32" width="32">
+* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="http://www.github.com/emmanuel156.png" height="32" width="32">
 
 ## Comentarios
 * Ninguno
